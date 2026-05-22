@@ -1,0 +1,30 @@
+{
+  "version": 66,
+
+  "url_help": "https://example.com/help",
+  "url_news": "https://example.com/news.json",
+  "url_servers": "https://raw.githubusercontent.com/dragonsamp/LAUNCHER-API/main/url_servers",
+
+  "url_client": "https://example.com/client.apk",
+
+  "url_forum": "https://example.com/forum",
+  "url_donate": "https://example.com/donate",
+
+  "url_vk": "https://vk.com/example",
+  "url_telegram": "https://t.me/example",
+  "url_discord": "https://discord.gg/example",
+  "url_tiktok": "https://tiktok.com/@example",
+
+  "url_game1": "https://www.dropbox.com/scl/fi/qtzmn6ldnoc57pivcr9pn/FakeSAMP.zip?rlkey=vbabell9udql4w4dn59hulezu&st=hrosk0if&dl=1",
+  "url_game2": "https://www.dropbox.com/scl/fi/qtzmn6ldnoc57pivcr9pn/FakeSAMP.zip?rlkey=vbabell9udql4w4dn59hulezu&st=hrosk0if&dl=1",
+  "url_game3": "https://www.dropbox.com/scl/fi/qtzmn6ldnoc57pivcr9pn/FakeSAMP.zip?rlkey=vbabell9udql4w4dn59hulezu&st=hrosk0if&dl=1",
+  "url_game4": "https://www.dropbox.com/scl/fi/qtzmn6ldnoc57pivcr9pn/FakeSAMP.zip?rlkey=vbabell9udql4w4dn59hulezu&st=hrosk0if&dl=1",
+
+  "url_game_files_json": "https://samp-mobile.shop/files.json",
+
+  "URL_GAME_GRAPH": "https://www.dropbox.com/scl/fi/qtzmn6ldnoc57pivcr9pn/FakeSAMP.zip?rlkey=vbabell9udql4w4dn59hulezu&st=hrosk0if&dl=1",
+
+  "url_site": "https://example.com",
+
+  "url_support": "https://example.com/support"
+}
